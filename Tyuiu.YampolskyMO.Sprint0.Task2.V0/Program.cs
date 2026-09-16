@@ -12,8 +12,8 @@ namespace Tyuiu.YampolskyMO.Sprint0.Task2.V0
     {
         static void Main(string[] args)
         {
-            // Вызов класса DataService и метода GetMessage
-            // из библиотеки Tyuiu.YampolskyMO.Sprint0.Task2.V0.Lib
+         
+            
             Console.WriteLine(DataService.GetMessage("Матвей"));
             Console.ReadKey();
             Console.ReadKey();
