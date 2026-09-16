@@ -2,7 +2,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 
 using Tyuiu.YampolskyMO.Sprint0.Task2.V0.Lib;
-
+ 
 namespace Tyuiu.YampolskyMO.Sprint0.Task2.V0.Test
 {
     [TestClass]
