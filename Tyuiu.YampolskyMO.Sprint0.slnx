@@ -30,4 +30,5 @@
     <Project Path="Tyuiu.YampolskyMO.Sprint0.Task6.V0.Test/Tyuiu.YampolskyMO.Sprint0.Task6.V0.Test.csproj" Id="a88dfe87-4928-4cae-a568-ac646399cc05" />
     <Project Path="Tyuiu.YampolskyMO.Sprint0.Task6.V0/Tyuiu.YampolskyMO.Sprint0.Task6.V0.csproj" Id="be647fce-f99d-49b8-99f3-073703b15c29" />
   </Folder>
+  <Folder Name="/Task7/" />
 </Solution>
