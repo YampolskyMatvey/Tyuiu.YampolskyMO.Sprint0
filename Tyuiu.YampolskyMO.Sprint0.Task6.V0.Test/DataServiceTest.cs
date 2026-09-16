@@ -1,11 +1,30 @@
-﻿namespace Tyuiu.YampolskyMO.Sprint0.Task6.V0.Test
+﻿using Tyuiu.YampolskyMO.Sprint0.Task6.V0.Lib;
+
+namespace Tyuiu.YampolskyMO.Sprint0.Task6.V0.Test
 {
     [TestClass]
-    public sealed class DataServiceTest
+    public class DataServiceTest
     {
         [TestMethod]
-        public void TestMethod1()
+        public void CheckedAdditionArrayValid()
         {
+            var numbers = new int[] { 1, 2, 3, 4, 5 };
+            var res = DataService.AdditionArray(numbers);
+            Assert.AreEqual(15, res);
+        }
+        [TestMethod]
+        public void CheckSubstractionArrayValid()
+        {
+            var numbers = new int[] { 1, 2, 3, 4, 5 };
+            var res = DataService.SubtrabtionArray(numbers);
+            Assert.AreEqual(-15, res);
+        }
+        [TestMethod]
+        public void CheckMultArrayValid()
+        {
+            var numbers = new int[] { 1, 2, 3, 4, 5 };
+            var res = DataService.MultiplicationArray(numbers);
+            Assert.AreEqual(120, res);
         }
     }
 }
