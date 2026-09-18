@@ -6,14 +6,14 @@ namespace Tyuiu.YampolskyMO.Sprint0.Task7.V0
     {
         static void Main(string[] args)
         {
-            Console.Title = "Спринт #0 | Выполнил: Маслов Д. М. | СМАРТА-26-1";
+            Console.Title = "Спринт #0 | Выполнил: Ямпольский М. О. | ИИПб-26-1";
 
             Console.WriteLine("**************************************************************************");
             Console.WriteLine("* Спринт #0                                                              *");
             Console.WriteLine("* Тема: Создания итогового решения по спринту                            *");
             Console.WriteLine("* Задание #7                                                             *");
             Console.WriteLine("* Вариант #0                                                             *");
-            Console.WriteLine("* Выполнил: Маслов Дмитрий Михайлович | СМАРТА-26-1\"                     *");
+            Console.WriteLine("* Выполнил: Ямпольский Матвей Олегович | ИИПб-26-1\"                     *");
             Console.WriteLine("**************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                               *");
             Console.WriteLine("* Написать консольную программу на C#, которая суммирует значения двух   *");
