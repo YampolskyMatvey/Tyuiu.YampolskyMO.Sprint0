@@ -1,5 +1,5 @@
 ﻿using Tyuiu.YampolskyMO.Sprint0.Task7.V0.Lib;
-
+ 
 namespace Tyuiu.YampolskyMO.Sprint0.Task7.V0
 {
     class Program
